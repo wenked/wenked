@@ -4,11 +4,11 @@ Hi 👋 My name is Matheus Santos
 Full-Stack Developer
 --------------------
 
-I've been a developer for 3 years and one of my passions is programming Web apps, my favorite projects are the ones that involve data visualization and statics, I'm interested in learning more in these areas and others that involve Web and Javascript.
+I've been a developer for 3 years and one of my passions is programming Web apps, my favorite projects are the ones that involve data visualization and statics, I'm interested in learning more in these areas and others that involve Web and Javascript and Golang.
 
-* 🌍  I'm based in Castro-PR , Brazil
+* 🌍  I'm based in Marilia-SP , Brazil
 * ✉️  You can contact me at [wenked.matheus@yahoo.com.br](mailto:wenked.matheus@yahoo.com.br)
-* 🧠  I'm learning Svelte
+
 
 ### Skills
 
